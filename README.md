@@ -27,8 +27,11 @@ Star schema with:
 
 ## 📸 Dashboard Screenshots
 
-![Overview](images/overview.png)
-![Map](images/map.png)
+## 📸 Dashboard Preview
+
+![Overview](screenshots/Overview.png)
+![Temporal Trends](screenshots/TemporalTrends.png)
+![Seasonality](screenshots/Seasonality.png)
 
 ## 📄 Documentation
 See /docs folder for:
